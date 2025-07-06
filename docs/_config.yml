@@ -29,7 +29,7 @@ url: "https://schatzjmae84.github.io" # the base hostname & protocol for your si
 twitter_username: jekyllrb
 github_username:  jekyll
 
-theme: jekyll-theme-Forty
+theme: forty-jekyll-theme
 
 # Build settings
 theme: minima
